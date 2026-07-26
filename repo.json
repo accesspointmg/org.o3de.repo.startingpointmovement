@@ -87,7 +87,7 @@
     "overlays": []
   },
   "source_control": {
-    "git": "https://github.com/accesspointmg/o3de-startingpointmovement.git",
+    "git": "https://github.com/accesspointmg/org.o3de.repo.startingpointmovement.git",
     "branch": "2.0.0"
   }
 }
